@@ -4,7 +4,6 @@ I am a beginner python developer, freelancing and working on my pet project.
 
 ## My interests:
 - Automation of various tasks
-- NLP
 - Development of GUI applications
 - Development of bots for social networks
 - Working with API
