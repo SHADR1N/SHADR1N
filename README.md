@@ -3,14 +3,13 @@ Hello, my name is Sergey.
 I am a beginner python developer, freelancing and working on my pet project.
 
 ## My interests:
-```bash
 - Automation of various tasks
 - NLP
 - Development of GUI applications
 - Development of bots for social networks
 - Working with API
 - Backend development
-```
+
 ## My skills:
 - PySide6
 - ORM peewee
@@ -33,4 +32,4 @@ I am a beginner python developer, freelancing and working on my pet project.
 - aiohttp
 
 ## Contact with me
-![http://t.me/usernameBINGO](https://img.icons8.com/fluency/1x/telegram-app.png)
+[![Telegram](https://img.icons8.com/fluency/1x/telegram-app.png)](http://t.me/usernameBINGO)
