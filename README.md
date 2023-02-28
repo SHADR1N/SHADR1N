@@ -11,6 +11,8 @@ I am a beginner python developer, freelancing and working on my pet project.
 
 ## My skills:
 - PySide6
+- FastAPI
+- SQLAlchemy
 - ORM peewee
 - SQL (basic)
 - asyncio
