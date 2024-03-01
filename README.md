@@ -19,11 +19,13 @@ About Me
 
 ## 🌐 Project Portfolio:
 
-## 🤖 Bots for Social Empowerment: I take pride in my work developing innovative bots for social networks, automating tasks, and enhancing online presence.
+**🤖 Bots for Social Empowerment:** I take pride in my work developing innovative bots for social networks, automating tasks, and enhancing online presence.
 
-## 🕹️ Pet Project Pursuer: Currently engaged in a captivating pet project, where I'm blending creativity with code to build something truly exceptional.
+**🕹️ Pet Project Pursuer:** Currently engaged in a captivating pet project, where I'm blending creativity with code to build something truly exceptional.
 
-## 🌐 Commercial Credentials: Backed by hands-on experience in commercial projects, I've navigated the demands of real-world development, bringing solutions to life.
+**🌐 Commercial Credentials:**
+Backed by hands-on experience in commercial projects, I've navigated the demands of real-world development, bringing solutions to life.
+
 ## 🧰 Toolkit Proficiency:
 
 -    Version Control Virtuoso: Well-versed in using Git to maintain version control and facilitate collaborative development.
@@ -32,7 +34,7 @@ About Me
 
 -    Executable Excellence: Skilled in using Nuitka to compile Python code into standalone executables for optimal performance.
 
-📚 Continuous Learner:
+**📚 Continuous Learner:**
 
 I'm dedicated to staying at the forefront of technology, constantly exploring new tools and methodologies to augment my skill set. Join me on this exciting journey, and let's craft the future together.
 
