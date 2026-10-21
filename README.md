@@ -1,42 +1,81 @@
-About Me
+# 👋 Hi, I'm Sergey Shadrin
 
-## 👋 Hello, I'm Sergey, a passionate Python developer on a journey to streamline and innovate through code.
+### AI Systems Developer · Python Engineer · Builder of AI Products
 
-## 🚀 As a burgeoning Python enthusiast, my focus spans a diverse range of areas within the development landscape:
-## 💻 Technical Expertise:
+I build AI-powered applications, intelligent agents, automation systems, and tools that solve real-world problems.
 
--    GUI Magic: Proficient in creating sleek and responsive GUI applications using PySide6 and Tkinter. Bringing user-friendly experiences to life is my forte.
+My focus is on making AI systems more useful, reliable, and autonomous — from conversational AI companions with persistent memory to multi-agent orchestration frameworks.
 
--    API Aficionado: Adept at working with various APIs and honing backend development skills using FastAPI, asyncio, and ORM peewee. I thrive on crafting robust and scalable solutions.
+## 🚀 What I'm Working On
 
--    Web Scraping Wizardry: Harnessing the power of bs4, Selenium, Playwright, and Pyppeteer to extract valuable data and automate mundane tasks with precision.
+- 🤖 **AI Agents & Orchestration** — building systems where multiple agents collaborate, use tools, make decisions, and execute complex workflows.
+- 🧠 **LLM Engineering** — designing context management, memory systems, decision-making pipelines, and model integrations.
+- 💬 **Conversational AI** — developing AI companions focused on natural conversations, personalization, and long-term context.
+- ⚙️ **Automation & Developer Tools** — creating tools that streamline workflows and turn complex tasks into executable processes.
+- 🌐 **AI-Powered Applications** — building bots, APIs, backend services, and user-facing products.
 
--    Multiprocessing Maven: Leveraging the efficiency of multiprocessing to optimize performance and expedite task execution.
+## 🛠️ Tech Stack
 
--    Media Maestro: From image processing with PIL to video manipulation with ffmpeg, I navigate the multimedia landscape with finesse.
+**Languages**
+- Python, JavaScript
 
--    Networking Ninja: Fluent in making HTTP requests using curl and aiohttp, ensuring seamless communication between applications.
+**Backend & APIs**
+- FastAPI, asyncio, REST APIs
+- SQL, SQLite, ORM
 
-## 🌐 Project Portfolio:
+**AI & LLM Systems**
+- Large Language Models (LLMs)
+- AI agents and multi-agent systems
+- LLM orchestration and model routing
+- Context engineering and persistent memory
+- Tool calling and workflow automation
 
-**🤖 Bots for Social Empowerment:** I take pride in my work developing innovative bots for social networks, automating tasks, and enhancing online presence.
+**Automation & Data Processing**
+- Playwright, Selenium, BeautifulSoup
+- aiohttp, HTTP APIs
+- Multiprocessing and asynchronous programming
 
-**🕹️ Pet Project Pursuer:** Currently engaged in a captivating pet project, where I'm blending creativity with code to build something truly exceptional.
+**Desktop & Multimedia**
+- PySide6, Tkinter
+- Pillow, FFmpeg
 
-**🌐 Commercial Credentials:**
-Backed by hands-on experience in commercial projects, I've navigated the demands of real-world development, bringing solutions to life.
+**Tools & Infrastructure**
+- Git, GitHub
+- Linux, macOS, Windows
+- CLI development and application packaging
 
-## 🧰 Toolkit Proficiency:
+## 🔬 Selected Projects
 
--    Version Control Virtuoso: Well-versed in using Git to maintain version control and facilitate collaborative development.
+### 🧩 DeepSeek Harness (DSH)
+Working on an AI agent orchestration environment designed to coordinate specialized agents, execute multi-step goals, and improve development workflows.
 
--    JavaScript Journeyman: Equipped with a foundational understanding of JS for seamless integration with Python applications.
+**Focus:** Agent coordination, execution pipelines, model integrations, tool access, and reliable task completion.
 
--    Executable Excellence: Skilled in using Nuitka to compile Python code into standalone executables for optimal performance.
+### 💙 AIKIN — AI Companion
+Building a conversational AI product designed to provide personalized, natural conversations with persistent memory and contextual understanding.
 
-**📚 Continuous Learner:**
+**Focus:** Conversation architecture, memory attribution, context management, decision-driven interactions, and multi-platform bots.
 
-I'm dedicated to staying at the forefront of technology, constantly exploring new tools and methodologies to augment my skill set. Join me on this exciting journey, and let's craft the future together.
+## 💡 Engineering Philosophy
 
-## 🌐 Connect with Me:
-[![Telegram](https://img.icons8.com/fluency/1x/telegram-app.png)](http://t.me/usernameBINGO)
+- **Solve the underlying problem** — not just the visible symptom.
+- **Build systems, not demos** — prioritize real execution, integration, and reliability.
+- **Use AI where it adds value** — not simply because it is available.
+- **Validate with evidence** — test real workflows, edge cases, and failure scenarios.
+- **Keep improving** — research, experiment, measure, and iterate.
+
+## 📈 Background
+
+My experience spans commercial software development, automation, backend engineering, and building products from the ground up.
+
+I enjoy exploring difficult technical problems, connecting different technologies, and turning ambitious ideas into working systems.
+
+I'm especially interested in the future of autonomous AI agents, persistent AI memory, and more capable AI-driven software.
+
+## 🌐 Connect
+
+- 💬 Telegram: [@usernameBINGO](https://t.me/usernameBINGO)
+
+---
+
+*Building practical AI systems, one experiment at a time.*
